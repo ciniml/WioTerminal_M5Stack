@@ -10,4 +10,10 @@ D GOWIN LittleBee GW1N-4
 K GOWIN LittleBee GW1N FPGA
 $ENDCMP
 #
+$CMP ICE40UP5K-SG48ITR
+D iCE40 UltraPlus FPGA, 5280 LUTs, 1.2V, 48-pin QFN
+K FPGA programmable logic
+F http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra
+$ENDCMP
+#
 #End Doc Library
