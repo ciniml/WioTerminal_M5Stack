@@ -99,6 +99,10 @@ F 0 "U2" H 5250 3367 50  0000 C CNN
 F 1 "TPS63060" H 5250 3276 50  0000 C CNN
 F 2 "Package_SON:Texas_S-PWSON-N10_ThermalVias" H 5250 2050 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tps63060.pdf" H 5250 2700 50  0001 C CNN
+F 4 "TPS63060DSCR" H 0   0   50  0001 C CNN "MPN"
+F 5 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "296-30204-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    5250 2700
 	1    0    0    -1  
 $EndComp
@@ -111,6 +115,9 @@ F 1 "1u, 2.5A" V 5344 1950 50  0000 C CNN
 F 2 "local:74438323010" H 5250 1950 50  0001 C CNN
 F 3 "~" H 5250 1950 50  0001 C CNN
 F 4 "74438323010" V 5250 1950 50  0001 C CNN "MPN"
+F 5 "Würth Elektronik" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "732-4843-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    5250 1950
 	0    -1   -1   0   
 $EndComp
@@ -132,6 +139,10 @@ F 0 "R9" H 5909 2846 50  0000 L CNN
 F 1 "111k" H 5909 2755 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 5850 2800 50  0001 C CNN
 F 3 "~" H 5850 2800 50  0001 C CNN
+F 4 "RN73H1ETTP1113F25" H 0   0   50  0001 C CNN "MPN"
+F 5 "KOA Speer Electronics, Inc." H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "2019-RN73H1ETTP1113F25CT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    5850 2800
 	1    0    0    -1  
 $EndComp
@@ -143,6 +154,10 @@ F 0 "C6" H 6242 2846 50  0000 L CNN
 F 1 "10p" H 6242 2755 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 6150 2800 50  0001 C CNN
 F 3 "~" H 6150 2800 50  0001 C CNN
+F 4 "GCM1885C2A100JA16D" H 0   0   50  0001 C CNN "MPN"
+F 5 "Murata" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "490-4770-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    6150 2800
 	1    0    0    -1  
 $EndComp
@@ -154,6 +169,10 @@ F 0 "R8" H 5909 2646 50  0000 L CNN
 F 1 "1M" H 5909 2555 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 5850 2600 50  0001 C CNN
 F 3 "~" H 5850 2600 50  0001 C CNN
+F 4 "RC0603JR-071ML" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1.0MGRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    5850 2600
 	1    0    0    -1  
 $EndComp
@@ -165,6 +184,10 @@ F 0 "R10" H 6509 2796 50  0000 L CNN
 F 1 "1M" H 6509 2705 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 6450 2750 50  0001 C CNN
 F 3 "~" H 6450 2750 50  0001 C CNN
+F 4 "RC0603JR-071ML" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1.0MGRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    6450 2750
 	1    0    0    -1  
 $EndComp
@@ -176,6 +199,10 @@ F 0 "C7" H 6842 2796 50  0000 L CNN
 F 1 "22u" H 6842 2705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 6750 2750 50  0001 C CNN
 F 3 "~" H 6750 2750 50  0001 C CNN
+F 4 "CL31X226KPHN3NE" H 0   0   50  0001 C CNN "MPN"
+F 5 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "1276-3301-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    6750 2750
 	1    0    0    -1  
 $EndComp
@@ -187,6 +214,10 @@ F 0 "C8" H 7142 2796 50  0000 L CNN
 F 1 "22u" H 7142 2705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 7050 2750 50  0001 C CNN
 F 3 "~" H 7050 2750 50  0001 C CNN
+F 4 "CL31X226KPHN3NE" H 0   0   50  0001 C CNN "MPN"
+F 5 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "1276-3301-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    7050 2750
 	1    0    0    -1  
 $EndComp
@@ -198,6 +229,10 @@ F 0 "C9" H 7442 2796 50  0000 L CNN
 F 1 "22u" H 7442 2705 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric" H 7350 2750 50  0001 C CNN
 F 3 "~" H 7350 2750 50  0001 C CNN
+F 4 "CL31X226KPHN3NE" H 0   0   50  0001 C CNN "MPN"
+F 5 "Samsung Electro-Mechanics" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "1276-3301-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    7350 2750
 	1    0    0    -1  
 $EndComp
@@ -209,6 +244,10 @@ F 0 "C5" H 4442 2846 50  0000 L CNN
 F 1 "100n" H 4442 2755 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 4350 2800 50  0001 C CNN
 F 3 "~" H 4350 2800 50  0001 C CNN
+F 4 "CC0603KRX7R8BB104" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1341-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4350 2800
 	1    0    0    -1  
 $EndComp
@@ -220,6 +259,10 @@ F 0 "C3" H 4142 2746 50  0000 L CNN
 F 1 "10u" H 4142 2655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 4050 2700 50  0001 C CNN
 F 3 "~" H 4050 2700 50  0001 C CNN
+F 4 "GRM21BR71A106KA73K" H 0   0   50  0001 C CNN "MPN"
+F 5 "Murata" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "490-14381-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4050 2700
 	1    0    0    -1  
 $EndComp
@@ -231,6 +274,10 @@ F 0 "C1" H 3842 2746 50  0000 L CNN
 F 1 "10u" H 3842 2655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 3750 2700 50  0001 C CNN
 F 3 "~" H 3750 2700 50  0001 C CNN
+F 4 "Murata" H 3750 2700 50  0001 C CNN "Manufacturer"
+F 5 "GRM21BR71A106KA73K" H 0   0   50  0001 C CNN "MPN"
+F 6 "digikey" H 3750 2700 50  0001 C CNN "Supplier"
+F 7 "490-14381-1-ND" H 3750 2700 50  0001 C CNN "SKU"
 	1    3750 2700
 	1    0    0    -1  
 $EndComp
@@ -501,6 +548,10 @@ F 0 "U1" H 3500 4600 50  0000 C CNN
 F 1 "INA219" H 3600 4500 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-8" H 3850 4150 50  0001 C CNN
 F 3 "" H 3850 4150 50  0001 C CNN
+F 4 "INA219AIDCNR" H 0   0   50  0001 C CNN "MPN"
+F 5 "Texas Instruments" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "296-23770-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    3850 4150
 	1    0    0    -1  
 $EndComp
@@ -512,6 +563,10 @@ F 0 "R1" V 2754 2500 50  0000 C CNN
 F 1 "0.04" V 2845 2500 50  0000 C CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 2950 2500 50  0001 C CNN
 F 3 "~" H 2950 2500 50  0001 C CNN
+F 4 "WSL0805R0400FEA18" H 0   0   50  0001 C CNN "MPN"
+F 5 "Vishay Dale" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "WSLB-.04CT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    2950 2500
 	0    1    1    0   
 $EndComp
@@ -539,6 +594,10 @@ F 0 "C2" H 4092 3546 50  0000 L CNN
 F 1 "100n" H 4092 3455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 4000 3500 50  0001 C CNN
 F 3 "~" H 4000 3500 50  0001 C CNN
+F 4 "CC0603KRX7R8BB104" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1341-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4000 3500
 	1    0    0    -1  
 $EndComp
@@ -550,6 +609,10 @@ F 0 "C4" H 4392 3546 50  0000 L CNN
 F 1 "10u" H 4392 3455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0805_2012Metric" H 4300 3500 50  0001 C CNN
 F 3 "~" H 4300 3500 50  0001 C CNN
+F 4 "GRM21BR71A106KA73K" H 0   0   50  0001 C CNN "MPN"
+F 5 "Murata" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "490-14381-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4300 3500
 	1    0    0    -1  
 $EndComp
@@ -598,6 +661,10 @@ F 0 "R2" H 4659 3746 50  0000 L CNN
 F 1 "4.7k" H 4659 3655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 4600 3700 50  0001 C CNN
 F 3 "~" H 4600 3700 50  0001 C CNN
+F 4 "RC0603JR-074K7L" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-4.7KGRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4600 3700
 	1    0    0    -1  
 $EndComp
@@ -609,6 +676,10 @@ F 0 "R5" H 4959 3746 50  0000 L CNN
 F 1 "4.7k" H 4959 3655 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 4900 3700 50  0001 C CNN
 F 3 "~" H 4900 3700 50  0001 C CNN
+F 4 "RC0603JR-074K7L" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-4.7KGRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4900 3700
 	1    0    0    -1  
 $EndComp
@@ -630,6 +701,10 @@ F 0 "R3" H 4709 4446 50  0000 L CNN
 F 1 "0" H 4709 4355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 4650 4400 50  0001 C CNN
 F 3 "~" H 4650 4400 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-0.0GRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4650 4400
 	1    0    0    -1  
 $EndComp
@@ -663,6 +738,10 @@ F 0 "R6" H 5109 4446 50  0000 L CNN
 F 1 "0" H 5109 4355 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 5050 4400 50  0001 C CNN
 F 3 "~" H 5050 4400 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-0.0GRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    5050 4400
 	1    0    0    -1  
 $EndComp
@@ -718,6 +797,10 @@ F 0 "J1" H 8250 7350 50  0000 C CNN
 F 1 "Raspberry_Pi_2_3" H 8250 7250 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical_SMD" H 7650 6000 50  0001 C CNN
 F 3 "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf" H 7650 6000 50  0001 C CNN
+F 4 "hirosugi" H 0   0   50  0001 C CNN "Supplier"
+F 5 "	PSM-420533-20" H 0   0   50  0001 C CNN "MPN"
+F 6 "Hirosugi" H 0   0   50  0001 C CNN "Manufacturer"
+F 7 "	PSM-420533-20" H 0   0   50  0001 C CNN "SKU"
 	1    7650 6000
 	1    0    0    -1  
 $EndComp
@@ -793,6 +876,10 @@ F 0 "R11" V 9050 5000 50  0000 R CNN
 F 1 "0" V 9050 5200 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 9100 5100 50  0001 C CNN
 F 3 "~" H 9100 5100 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-0.0GRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    9100 5100
 	0    1    1    0   
 $EndComp
@@ -804,6 +891,10 @@ F 0 "R12" V 9050 5100 50  0000 R CNN
 F 1 "0" V 9050 5300 50  0000 L CNN
 F 2 "Resistor_SMD:R_0603_1608Metric" H 9100 5200 50  0001 C CNN
 F 3 "~" H 9100 5200 50  0001 C CNN
+F 4 "RC0603JR-070RL" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-0.0GRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    9100 5200
 	0    1    1    0   
 $EndComp
@@ -914,6 +1005,9 @@ F 1 "1A" V 2336 2500 50  0000 C CNN
 F 2 "Fuse:Fuse_1812_4532Metric" H 2500 2300 50  0001 L CNN
 F 3 "~" H 2450 2500 50  0001 C CNN
 F 4 "MF-MSMF110/24X-2" V 2450 2500 50  0001 C CNN "MPN"
+F 5 "Bourns" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "MF-MSMF110/24X-2CT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    2450 2500
 	0    1    1    0   
 $EndComp
@@ -929,6 +1023,10 @@ F 0 "R15" H 4491 2104 50  0000 R CNN
 F 1 "100k" H 4491 2195 50  0000 R CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4550 2150 50  0001 C CNN
 F 3 "~" H 4550 2150 50  0001 C CNN
+F 4 "RC0805FR-07100KL" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-100KCRCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4550 2150
 	-1   0    0    1   
 $EndComp
@@ -962,6 +1060,10 @@ F 0 "U3" H 3850 6015 50  0000 C CNN
 F 1 "ATECC608A" H 3850 5924 50  0000 C CNN
 F 2 "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm" H 3850 5500 50  0001 C CNN
 F 3 "" H 3850 5500 50  0001 C CNN
+F 4 "ATECC608A-MAHCZ-T" H 0   0   50  0001 C CNN "MPN"
+F 5 "Microchip Technology" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "ATECC608A-MAHCZ-TCT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    3850 5500
 	1    0    0    -1  
 $EndComp
@@ -973,6 +1075,10 @@ F 0 "C10" H 3292 5546 50  0000 L CNN
 F 1 "100n" H 3292 5455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 3200 5500 50  0001 C CNN
 F 3 "~" H 3200 5500 50  0001 C CNN
+F 4 "CC0603KRX7R8BB104" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1341-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    3200 5500
 	1    0    0    -1  
 $EndComp
@@ -1101,6 +1207,9 @@ F 1 "JS102011JAQN" H 4300 2094 50  0000 C CNN
 F 2 "local:JS102011JAQN" H 4300 1900 50  0001 C CNN
 F 3 "" H 4300 1900 50  0001 C CNN
 F 4 "JS102011JAQN" H 4300 1900 50  0001 C CNN "MPN"
+F 5 "C&K" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "CKN10720CT-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    4300 1900
 	1    0    0    -1  
 $EndComp
@@ -1139,6 +1248,7 @@ F 0 "J3" H 10873 6273 50  0000 R CNN
 F 1 "GROVE" H 10873 6182 50  0000 R CNN
 F 2 "local:PHS-4AW" H 10900 6300 50  0001 C CNN
 F 3 "~" H 10900 6300 50  0001 C CNN
+F 4 "seeed" H 0   0   50  0001 C CNN "Supplier"
 	1    10900 6300
 	-1   0    0    -1  
 $EndComp
@@ -1150,6 +1260,10 @@ F 0 "C12" H 10092 6546 50  0000 L CNN
 F 1 "1u" H 10092 6455 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 10000 6500 50  0001 C CNN
 F 3 "~" H 10000 6500 50  0001 C CNN
+F 4 "CC0603ZRY5V6BB105" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1357-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    10000 6500
 	1    0    0    -1  
 $EndComp
@@ -1219,6 +1333,7 @@ F 0 "J4" H 10873 7073 50  0000 R CNN
 F 1 "GROVE" H 10873 6982 50  0000 R CNN
 F 2 "local:PHS-4AW" H 10900 7100 50  0001 C CNN
 F 3 "~" H 10900 7100 50  0001 C CNN
+F 4 "seeed" H 0   0   50  0001 C CNN "Supplier"
 	1    10900 7100
 	-1   0    0    -1  
 $EndComp
@@ -1230,6 +1345,10 @@ F 0 "C13" H 10092 7346 50  0000 L CNN
 F 1 "1u" H 10092 7255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0603_1608Metric" H 10000 7300 50  0001 C CNN
 F 3 "~" H 10000 7300 50  0001 C CNN
+F 4 "CC0603ZRY5V6BB105" H 0   0   50  0001 C CNN "MPN"
+F 5 "Yageo" H 0   0   50  0001 C CNN "Manufacturer"
+F 6 "311-1357-1-ND" H 0   0   50  0001 C CNN "SKU"
+F 7 "digikey" H 0   0   50  0001 C CNN "Supplier"
 	1    10000 7300
 	1    0    0    -1  
 $EndComp
@@ -1289,6 +1408,7 @@ F 0 "J5" H 2750 9015 50  0000 C CNN
 F 1 "MBUS_BOTTOM" H 2750 8924 50  0000 C CNN
 F 2 "local:MBUS_Socket" H 2750 6950 50  0001 C CNN
 F 3 "" H 2750 6950 50  0001 C CNN
+F 4 "hirosugi" H 0   0   50  0001 C CNN "Supplier"
 	1    2750 8100
 	1    0    0    -1  
 $EndComp
