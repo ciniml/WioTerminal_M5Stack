@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:WioTerminal_M5Adapter-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
@@ -541,11 +540,11 @@ F 3 "" H 3250 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L local:INA219 U1
+L local:INA219AIDCN U1
 U 1 1 5EC786DE
 P 3850 4150
 F 0 "U1" H 3500 4600 50  0000 C CNN
-F 1 "INA219" H 3600 4500 50  0000 C CNN
+F 1 "INA219AIDCN" H 3600 4500 50  0000 C CNN
 F 2 "Package_TO_SOT_SMD:SOT-23-8" H 3850 4150 50  0001 C CNN
 F 3 "" H 3850 4150 50  0001 C CNN
 F 4 "INA219AIDCNR" H 0   0   50  0001 C CNN "MPN"
@@ -980,7 +979,7 @@ U 1 1 5ED1234E
 P 1850 2500
 F 0 "J2" H 1956 2678 50  0000 C CNN
 F 1 "Ext. BAT" H 1956 2587 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 1850 2500 50  0001 C CNN
+F 2 "local:PinHeader_1x02_P2.54mm_Horizontal" H 1850 2500 50  0001 C CNN
 F 3 "~" H 1850 2500 50  0001 C CNN
 	1    1850 2500
 	1    0    0    -1  
@@ -1172,9 +1171,9 @@ Wire Wire Line
 	4250 5700 4550 5700
 Wire Wire Line
 	4250 5800 4550 5800
-Text Label 4550 5700 2    50   ~ 0
-SDA
 Text Label 4550 5800 2    50   ~ 0
+SDA
+Text Label 4550 5700 2    50   ~ 0
 SCL
 $Comp
 L power:+3V3 #PWR0101
@@ -1678,7 +1677,7 @@ U 1 1 5EFD4E32
 P 1850 2850
 F 0 "J6" H 1956 3028 50  0000 C CNN
 F 1 "Ext. BAT" H 1956 2937 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" H 1850 2850 50  0001 C CNN
+F 2 "local:PinHeader_1x02_P2.54mm_Horizontal" H 1850 2850 50  0001 C CNN
 F 3 "~" H 1850 2850 50  0001 C CNN
 	1    1850 2850
 	1    0    0    -1  
