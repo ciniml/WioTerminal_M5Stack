@@ -1,12 +1,13 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:WioTerminal_M5Adapter-cache
+EELAYER 26 0
 EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title "M5Stack FPGA Stack"
-Date "2020-04-29"
-Rev "Rev.C"
+Title "Wio Terminal M5 Adapter"
+Date "2020-07-16"
+Rev "Rev.B"
 Comp "Kenta IDA"
 Comment1 ""
 Comment2 ""
@@ -1427,15 +1428,15 @@ $EndComp
 $Comp
 L power:+5V #PWR?
 U 1 1 5EE7EF76
-P 3100 8700
+P 3850 8700
 AR Path="/5EE509E4/5EE7EF76" Ref="#PWR?"  Part="1" 
 AR Path="/5EE7EF76" Ref="#PWR039"  Part="1" 
-F 0 "#PWR039" H 3100 8550 50  0001 C CNN
-F 1 "+5V" V 3100 8900 50  0000 C CNN
-F 2 "" H 3100 8700 50  0001 C CNN
-F 3 "" H 3100 8700 50  0001 C CNN
-	1    3100 8700
-	0    1    1    0   
+F 0 "#PWR039" H 3850 8550 50  0001 C CNN
+F 1 "+5V" V 3850 8900 50  0000 C CNN
+F 2 "" H 3850 8700 50  0001 C CNN
+F 3 "" H 3850 8700 50  0001 C CNN
+	1    3850 8700
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2250 7300 2250 7250
@@ -1454,7 +1455,7 @@ Connection ~ 2450 7400
 Wire Wire Line
 	3100 7900 3050 7900
 Wire Wire Line
-	3100 8700 3050 8700
+	3850 8700 3050 8700
 Wire Wire Line
 	2450 7500 2450 7600
 Wire Wire Line
@@ -1667,7 +1668,6 @@ F 3 "~" H 3400 800 50  0001 C CNN
 	1    3400 800 
 	1    0    0    -1  
 $EndComp
-NoConn ~ 3650 8800
 NoConn ~ 6850 6400
 Text Label 3650 8300 2    50   ~ 0
 SPI_CS
@@ -1688,4 +1688,18 @@ Wire Wire Line
 	2150 2850 2150 2600
 Wire Wire Line
 	2150 2600 2050 2600
+$Comp
+L Device:R_Small R16
+U 1 1 5F19EE01
+P 3750 8800
+F 0 "R16" V 3850 8750 50  0000 L CNN
+F 1 "DNP" V 3950 8750 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 3750 8800 50  0001 C CNN
+F 3 "~" H 3750 8800 50  0001 C CNN
+	1    3750 8800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3850 8700 3850 8800
+Connection ~ 3850 8700
 $EndSCHEMATC
